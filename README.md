@@ -30,11 +30,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/B06pEhxaXI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [recordit](https://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The main challenge was working around the build errors and figuring out the 
+layout of xcode.  My version was different than the one used for the walkthrough 
+so I had to figure out where the view controller was and where the code was.
 
 ## License
 
